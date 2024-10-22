@@ -1,0 +1,40 @@
+{
+   "data": [
+      {
+         "date": "01-01-2024",
+         "price_usd": 42208.202176186474,
+         "price_eur": 38240.20908960317,
+         "market_cap": 749793913990.623
+      },
+      {
+         "date": "01-07-2024",
+         "price_usd": 62734.39383945474,
+         "price_eur": 58430.814422068135,
+         "market_cap": 1151840688521.5325
+      },
+      {
+         "date": "01-01-2022",
+         "price_usd": null,
+         "price_eur": null,
+         "market_cap": null
+      },
+      {
+         "date": "01-07-2022",
+         "price_usd": null,
+         "price_eur": null,
+         "market_cap": null
+      },
+      {
+         "date": "01-01-2023",
+         "price_usd": null,
+         "price_eur": null,
+         "market_cap": null
+      },
+      {
+         "date": "01-07-2023",
+         "price_usd": null,
+         "price_eur": null,
+         "market_cap": null
+      }
+   ]
+}
